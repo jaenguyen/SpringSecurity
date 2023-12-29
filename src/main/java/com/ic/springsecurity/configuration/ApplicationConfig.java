@@ -1,4 +1,4 @@
-package com.ic.springsecurity.config;
+package com.ic.springsecurity.configuration;
 
 import com.ic.springsecurity.user.UserRepository;
 import lombok.RequiredArgsConstructor;

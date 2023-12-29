@@ -1,6 +1,6 @@
 package com.ic.springsecurity.auth;
 
-import com.ic.springsecurity.config.JwtService;
+import com.ic.springsecurity.configuration.JwtService;
 import com.ic.springsecurity.user.Role;
 import com.ic.springsecurity.user.User;
 import com.ic.springsecurity.user.UserRepository;
